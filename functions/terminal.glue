@@ -1,0 +1,31 @@
+█ [ /home/debayanpaul/Documents/C/functions ] gcc funtion1.c
+gcc: error: funtion1.c: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+
+█ [ /home/debayanpaul/Documents/C/functions ] ./a.out
+/bin/sh: 1: ./a.out: not found
+
+█ [ /home/debayanpaul/Documents/C/functions ] ls -al
+total 16
+drwxrwxr-x 2 debayanpaul debayanpaul 4096 Apr  7 22:55 .
+drwxrwxr-x 7 debayanpaul debayanpaul 4096 Apr  5 20:35 ..
+-rw-rw-r-- 1 debayanpaul debayanpaul  178 Apr  7 22:57 function1.c
+-rw-rw-r-- 1 debayanpaul debayanpaul    1 Apr  7 22:55 terminal.glue
+
+█ [ /home/debayanpaul/Documents/C/functions ] gcc function1.c
+function1.c: In function ‘main’:
+function1.c:10:12: error: called object ‘max’ is not a function or function pointer
+  int max = max(a,b);
+            ^
+function1.c:10:6: note: declared here
+  int max = max(a,b);
+      ^
+
+█ [ /home/debayanpaul/Documents/C/functions ] gcc function1.c
+
+█ [ /home/debayanpaul/Documents/C/functions ] gcc function1.c
+
+█ [ /home/debayanpaul/Documents/C/functions ] 
+Please enter a command
+ 

@@ -1,0 +1,4 @@
+Ctrl + P-> to toggle Ctrl P
+Ctrl + n -> to toggle nerdtree
+Ctrl + ww -> to move from nerdtree to editor
+..-> in CtrlP to move to parent directory

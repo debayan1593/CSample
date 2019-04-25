@@ -1,0 +1,31 @@
+%c—a single character
+
+%d—a decimal integer
+
+%f—a floating point number
+
+%o—an octal integer
+
+%x—a hexa decimal integer
+
+%s—a string
+
+%u—an unsigned decimal integer
+
+%hd—short int
+
+%hu—unsigned short int
+
+%ld—long int
+
+%lu—unsigned long int
+
+%lld—long long int
+
+%llu—unsigned long long int
+
+%lf— double
+
+%Lf—long double
+
+%s-String
